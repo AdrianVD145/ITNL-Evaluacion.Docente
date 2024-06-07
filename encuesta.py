@@ -41,7 +41,7 @@ for i in answer:
 driver.find_element_by_id("eval").submit()
 input("Preciona enter para terminar")
 
-print("Terminado Revisa tu cuenta")
+print("Terminado Revisa tu cuenta ajajja")
 
 
 
